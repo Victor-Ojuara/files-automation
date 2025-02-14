@@ -37,4 +37,4 @@ Automação para notificação de arquivos (`.csv`, `.xlsx`, `.parquet`) carrega
 Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-📌 **Desenvolvido por**: [Seu Nome](https://github.com/seu-usuario)
+📌 **Desenvolvido por**: [Victor Araujo](https://github.com/seu-usuario](https://github.com/Victor-Ojuara))
